@@ -1,5 +1,5 @@
 # OSCP-Study-Guide
-OSCP Study Guide 2002 - All tools and notes you will need!
+OSCP Study Guide 2022 - All tools and notes you will need!
 
 by RFS
 
@@ -41,5 +41,9 @@ You need to master enumeration at least in this protocols:
 
 ## Active Directory Attacks
 
+
+### Authentication
+
+#### Kerberos Attacks
 
 ## Pivoting
