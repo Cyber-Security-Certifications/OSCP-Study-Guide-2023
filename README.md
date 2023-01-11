@@ -1,5 +1,5 @@
 # OSCP Study Guide 2023
-![OSCP Study Guide 2023!](https://raw.githubusercontent.com/rfs85/Index/main/images/CRTO%20Notes.png "OSCP Study Guide 2023")
+![OSCP Study Guide 2023!](https://raw.githubusercontent.com/rfs85/Index/fd2c925e76ecdb81d201bc12c105c5ca0cfe6d85/images/OSCP%20Notes%202023.png "OSCP Study Guide 2023")
 
 - OSCP Study Guide 2023 - All tools and notes you will need!
 
